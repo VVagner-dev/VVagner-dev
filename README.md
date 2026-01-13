@@ -46,10 +46,10 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wagner-cristo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
   <a href="mailto:wagnerdossantos2311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
 </div>
 
