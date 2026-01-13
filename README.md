@@ -47,5 +47,6 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 <br/>
 
 <div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0:8A2BE2,100:4B0082" />
+  <h3><i>"Qualquer tecnologia suficientemente avançada é indistinguível de magia."</i></h3>
+  <b>– Arthur C. Clarke</b>
 </div>
