@@ -47,7 +47,8 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 <br/>
 
 <div align="center">
-  <img src="assets/dexter.gif" height="50" />
+  
   <h3><i>"Dee Dee! Saia do meu laboratório!"</i></h3>
   <b>– Dexter</b>
+  <img src="assets/dexter.gif" height="80" />
 </div>
