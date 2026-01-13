@@ -31,8 +31,8 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VVagner-dev&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VVagner-dev&layout=compact&theme=radical&hide_border=true" />
+  [![GinHub Stats](https://github-readme-stats.vercel.app/api?username=VVagner-dev&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VVagner-dev&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/output/github-contribution-grid-snake-dark.svg">
