@@ -47,7 +47,8 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 <br/>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4D0BAQE7tUo-Qn_L4g/company-logo_200_200/company-logo_200_200/0/1656602334800?e=1744848000&v=beta&t=7yH55oV_I8l9o_1s1c83o6p1u420658l2_2_55_7" width="100" />
-  <h3><i>"Qualquer tecnologia suficientemente avançada é indistinguível de magia."</i></h3>
-  <b>– Arthur C. Clarke</b>
+  <img src="https://i.gifer.com/5e9m.gif" height="150" />
+  <h3><i>"Dee Dee! Get out of my laboratory!"</i></h3>
+  <h3><i>"Dee Dee! Saia do meu laboratório!"</i></h3>
+  <b>– Dexter</b>
 </div>
