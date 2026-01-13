@@ -11,7 +11,7 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 
 *   🎓 Cursando **Ciência da Computação** (Previsão: 2028).
 *   💼 Experiência prática com **consumo e integração de APIs REST**, manipulação de dados JSON e automação de scripts.
-*   🛠️ No meu dia a dia uso: **Git, Postman, Docker** e metodologias ágeis (**Scrum**).
+*   🛠️ No meu dia a dia uso: **Git, Postman e metodologias ágeis (**Scrum**).
 *   🎯 **Foco:** Aprofundar em arquitetura de software, Backend e desenvolvimento de APIs.
 
 > *"Busco transformar lógica em soluções eficientes de integração."*
