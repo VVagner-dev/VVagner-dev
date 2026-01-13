@@ -1,12 +1,7 @@
 <div align="center">
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:8A2BE2,100:4B0082&text=Ol%C3%A1%2C%20eu%20sou%20o%20Wagner!%20%F0%9F%91%8B&animation=fadeIn" />
   <br/>
-  <a href="https://www.linkedin.com/in/wagner-cristo" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" />
-  </a>
-  <a href="mailto:wagnerdossantos2311@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/wagner-cristo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:wagnerdossantos2311@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" /></a>
 </div>
 
 ### 👨‍💻 Sobre Mim
