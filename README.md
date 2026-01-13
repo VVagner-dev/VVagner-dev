@@ -33,7 +33,7 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/main/profile-summary-card-output/radical/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" />
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/output/github-contribution-grid-snake-dark.svg">
