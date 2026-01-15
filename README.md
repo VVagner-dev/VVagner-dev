@@ -1,3 +1,7 @@
+<div align="right">
+  🇧🇷&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="README_en.md" title="English">🇺🇸</a>
+</div>
+
 <div align="center">
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:8A2BE2,100:4B0082&text=Ol%C3%A1%2C%20eu%20sou%20o%20Wagner!%20%F0%9F%91%8B&animation=fadeIn" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" />
@@ -13,7 +17,7 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 
 *   🎓 Cursando **Ciência da Computação** (Previsão: 2028).
 *   💼 Experiência prática com **consumo e integração de APIs REST**, manipulação de dados JSON e automação de scripts.
-*   🛠️ No meu dia a dia uso: **Git, Postman e metodologias ágeis (**Scrum**).
+*   🛠️ No meu dia a dia uso: **Git**, **Postman** e metodologias ágeis (**Scrum**).
 *   🎯 **Foco:** Aprofundar em arquitetura de software, Backend e desenvolvimento de APIs.
 
 > *"Busco transformar lógica em soluções eficientes de integração."*
