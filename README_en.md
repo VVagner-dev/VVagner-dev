@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.md" title="Português">🇧🇷</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🇺🇸
+  <a href="README.md" title="Português"><img src="https://flagcdn.com/w40/br.png" width="30" alt="Português"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="https://flagcdn.com/w40/us.png" width="30" alt="English">
 </div>
 
 <div align="center">
