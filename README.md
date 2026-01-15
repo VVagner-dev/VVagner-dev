@@ -1,4 +1,5 @@
 <div align="right">
+  <sub>Clique para traduzir</sub><br>
   <img src="https://flagcdn.com/w40/br.png" width="30" alt="Português">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="README_en.md" title="English"><img src="https://flagcdn.com/w40/us.png" width="30" alt="English"></a>
 </div>
 
