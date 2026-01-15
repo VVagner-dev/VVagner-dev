@@ -1,27 +1,27 @@
 <div align="right">
-  <sub>Clique para traduzir</sub><br>
-  <img src="https://flagcdn.com/w40/br.png" width="30" alt="Português">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="README_en.md" title="English"><img src="https://flagcdn.com/w40/us.png" width="30" alt="English"></a>
+  <sub>Click to translate</sub><br>
+  <a href="README_pt.md" title="Português"><img src="https://flagcdn.com/w40/br.png" width="30" alt="Português"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<img src="https://flagcdn.com/w40/us.png" width="30" alt="English">
 </div>
 
 <div align="center">
-  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:8A2BE2,100:4B0082&text=Ol%C3%A1%2C%20eu%20sou%20o%20Wagner!%20%F0%9F%91%8B&animation=fadeIn" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:8A2BE2,100:4B0082&text=Hello%2C%20I%27m%20Wagner!%20%F0%9F%91%8B&animation=fadeIn" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" />
   <br/>
-  <a href="https://www.linkedin.com/in/wagner-cristo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:wagnerdossantos2311@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" /></a>
+  <a href="https://www.linkedin.com/in/wagner-cristo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:wagnerdossantos2311@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" alt="Gmail" /></a>
 </div>
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Sou estudante de **Ciência da Computação** e um entusiasta do desenvolvimento **Backend**. Atualmente, atuo como estagiário na área de Inteligência Artificial, onde utilizo **Python** para criar automações e integrações inteligentes de sistemas.
+I am a **Computer Science** student and a **Backend** development enthusiast. Currently, I work as an intern in Artificial Intelligence, where I use **Python** to create automations and intelligent system integrations.
 
-Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Spring Boot**, sempre focado em construir soluções robustas e bem estruturadas.
+I have a solid foundation in **Java** and am specializing in the **Spring Boot** ecosystem, always focused on building robust and well-structured solutions.
 
-*   🎓 Cursando **Ciência da Computação** (Previsão: 2028).
-*   💼 Experiência prática com **consumo e integração de APIs REST**, manipulação de dados JSON e automação de scripts.
-*   🛠️ No meu dia a dia uso: **Git**, **Postman** e metodologias ágeis (**Scrum**).
-*   🎯 **Foco:** Aprofundar em arquitetura de software, Backend e desenvolvimento de APIs.
+*   🎓 Studying **Computer Science** (Expected graduation: 2028).
+*   💼 Practical experience with **consuming and integrating REST APIs**, JSON data manipulation, and script automation.
+*   🛠️ In my daily routine I use: **Git**, **Postman**, and agile methodologies (**Scrum**).
+*   🎯 **Focus:** Deepening knowledge in software architecture, Backend, and API development.
 
-> *"Busco transformar lógica em soluções eficientes de integração."*
+> *"Seeking to transform logic into efficient integration solutions."*
 
 ---
 
@@ -35,7 +35,7 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" />
@@ -53,7 +53,7 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 
 <div align="center">
   
-  <h3><i>"Dee Dee! Saia do meu laboratório!"</i></h3>
-  <img src="assets/dexter.gif" height="80" />
+  <h3><i>"Dee Dee! Get out of my laboratory!"</i></h3>
+  <img src="assets/dexter.gif" height="80" alt="Dexter" />
   <br>– Dexter</br>
 </div>
