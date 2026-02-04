@@ -1,3 +1,6 @@
+![My GitHub Game](game.gif)
+
+
 <div align="right">
   <sub>Click to translate</sub><br>
   <a href="README_pt.md" title="Português"><img src="https://flagcdn.com/w40/br.png" width="30" alt="Português">
