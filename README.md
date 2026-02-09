@@ -47,9 +47,8 @@ I have a solid foundation in **Java** and am specializing in the **Spring Boot**
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/output/github-contribution-grid-snake.svg">
   </picture>
-  ![My GitHub Game](game.gif)
 </div>
-
+![My GitHub Game](game.gif)
 
 
 <br/>
