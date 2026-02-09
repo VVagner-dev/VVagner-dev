@@ -1,6 +1,3 @@
-
-
-
 <div align="right">
   <sub>Click to translate</sub><br>
   <a href="README_pt.md" title="Português"><img src="https://flagcdn.com/w40/br.png" width="30" alt="Português">
@@ -48,10 +45,8 @@ I have a solid foundation in **Java** and am specializing in the **Spring Boot**
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-![My GitHub Game](game.gif)
-
-
 <br/>
+![My GitHub Game](game.gif)
 
 <div align="center">
   
@@ -59,3 +54,6 @@ I have a solid foundation in **Java** and am specializing in the **Spring Boot**
   <img src="assets/dexter.gif" height="80" alt="Dexter" />
   <br>– Dexter</br>
 </div>
+
+
+
