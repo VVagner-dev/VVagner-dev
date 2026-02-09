@@ -1,4 +1,3 @@
-![My GitHub Game](game.gif)
 <div align="right">
   <sub>Click to translate</sub><br>
   <a href="README_pt.md" title="Português"><img src="https://flagcdn.com/w40/br.png" width="30" alt="Português">
@@ -44,10 +43,10 @@ I have a solid foundation in **Java** and am specializing in the **Spring Boot**
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/output/github-contribution-grid-snake.svg">
+    <img alt="My GitHub Game" src="https://raw.githubusercontent.com/VVagner-dev/VVagner-dev/main/game.gif">
   </picture>
 </div>
 <br/>
-![My GitHub Game](game.gif)
 
 <div align="center">
   
