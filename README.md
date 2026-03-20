@@ -29,7 +29,7 @@ I have a solid foundation in **Java** and am specializing in the **Spring Boot**
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,ts,prisma,spring,NodeJS,postgres,git,github,postman,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,ts,prisma,spring,nodejs,postgres,git,github,postman,vscode&theme=light" />
   </a>
 </div>
 
