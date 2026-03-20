@@ -29,7 +29,7 @@ Tenho uma base sólida em **Java** e estou me especializando no ecossistema **Sp
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,git,github,postman,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,ts,prisma,spring,nodejs,postgres,git,github,postman,vscode&theme=light" />
   </a>
 </div>
 
